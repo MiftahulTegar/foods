@@ -3,23 +3,79 @@
     {
       "id": 1,
       "nama_makanan" : "Ayam Geprek",
-      "deskripsi": "Enakkkkk",
+      "harga": "12.000",
       "create": "24-07-2022",
       "update": "24-07-2022"
     },
     {
       "id": 2,
       "nama_makanan" : "Bakso",
-      "deskripsi": "Enakkkkk bangett",
+      "harga": "8.000",
       "create": "24-07-2022",
       "update": "24-07-2022"
     },
     {
       "id": 3,
       "nama_makanan" : "Mie Ayam",
-      "deskripsi": "Lezat bangett",
+      "harga": "11.000",
       "create": "24-07-2022",
       "update": "24-07-2022"
-    }
+    },
+    {
+      "id": 4,
+      "nama_makanan" : "Nasi Goreng",
+      "harga": "12.000",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
+    {
+      "id": 5,
+      "nama_makanan" : "Magelangan",
+      "harga": "15.000",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
+    {
+      "id": 6,
+      "nama_makanan" : "Nasi Sarden",
+      "harga": "9.000",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
+    {
+      "id": 7,
+      "nama_makanan" : "Mie Sedap Goreng",
+      "harga": "7.000",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
+    {
+      "id": 8,
+      "nama_makanan" : "Pecel Lele",
+      "harga": "11.000",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
+    {
+      "id": 9,
+      "nama_makanan" : "Ayam Goreng",
+      "harga": "11.000",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
+    {
+      "id": 10,
+      "nama_makanan" : "Bakso Aci",
+      "harga": "8.000",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
+    {
+      "id": 11,
+      "nama_makanan" : "Bakwan Kawi",
+      "harga": "7.000",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
   ]
 }

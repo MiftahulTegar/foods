@@ -1,0 +1,25 @@
+{
+  "list-foods": [
+    {
+      "id": 1,
+      "nama_makanan" : "Ayam Geprek",
+      "deskripsi": "Enakkkkk",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
+    {
+      "id": 2,
+      "nama_makanan" : "Bakso",
+      "deskripsi": "Enakkkkk bangett",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    },
+    {
+      "id": 3,
+      "nama_makanan" : "Mie Ayam",
+      "deskripsi": "Lezat bangett",
+      "create": "24-07-2022",
+      "update": "24-07-2022"
+    }
+  ]
+}
